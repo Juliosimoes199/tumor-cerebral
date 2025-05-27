@@ -5,7 +5,7 @@ import io
 
 # Configurações da página
 st.set_page_config(
-    page_title="Detecção de Deficiência em Plantações",
+    page_title="Detecção de tumor cerebral",
     page_icon="🧠",
     layout="wide",
     initial_sidebar_state="expanded",
